@@ -1,9 +1,7 @@
-🇺🇸
-- 👋 Hi, I’m @rubensborges and you are very welcome!
-- 👀 I’m interested in music, biking, travels and coding
-- 📫 How to reach me: +55 37 9 9133-3779 or rubinhobahia@hotmail.com
+## 👋 Hi, I’m @rubensborges and you are very welcome!
+# How to reach me: +55 37 9 9133-3779 or rubinhobahia@hotmail.com
 
-##Technologies i've experienced with: 
+## Technologies i've experienced with: 
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
           
