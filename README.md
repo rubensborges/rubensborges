@@ -20,4 +20,4 @@ Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm gla
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
 </div>
 
-Let's connect and build something amazing together!
+## 🧠 Today I'll be better than yesterday. Tomorrow I'll be better than today 
