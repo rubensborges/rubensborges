@@ -10,6 +10,7 @@ Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm gla
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+<br />
 ![Next.Js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
