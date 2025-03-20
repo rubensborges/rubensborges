@@ -1,8 +1,12 @@
 # 👋 Welcome to my GitHub Profile!
 
 Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm glad you're here! Feel free to reach out to me via phone at +55 37 9 9133-3779 or email at rubinhobahia@hotmail.com.
+<br />
 
 - I'm currently working for @Galorys
+
+<br />
+
 
 ### Technologies I've Worked With:
 
