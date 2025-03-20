@@ -12,6 +12,9 @@ I'm glad you're here! Feel free to reach out!
 <br />
 
 - 👨🏻‍💻 Front-End Developer @[Galorys](https://www.galorys.com.br/)
+- - 🎓 Bachelor's degree in Software Engineering
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
 
 <br />
