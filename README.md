@@ -1,6 +1,7 @@
 # 👋 Welcome to my GitHub Profile!
 
-Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm glad you're here! Feel free to reach out!
+Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo).
+I'm glad you're here! Feel free to reach out!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0000ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensbbcarvalho/)](https://www.linkedin.com/in/rubensbbcarvalho/)
