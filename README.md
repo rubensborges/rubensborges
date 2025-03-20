@@ -12,7 +12,7 @@ Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm gla
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
-![TailwindCSS] (https://img.shields.io/badge/tailwindcss-DB7093?style=flat&logo=tailwind&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-DB7093?style=flat&logo=tailwind&logoColor=white)
 <br />
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
