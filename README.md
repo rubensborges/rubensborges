@@ -2,6 +2,8 @@
 
 Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm glad you're here! Feel free to reach out to me via phone at +55 37 9 9133-3779 or email at rubinhobahia@hotmail.com.
 
+- I'm currently working for @Galorys
+
 ### Technologies I've Worked With:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
