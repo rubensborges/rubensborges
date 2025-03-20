@@ -1,8 +1,11 @@
 # 👋 Welcome to my GitHub Profile!
 
 Hi, My name is Rubens, but you can call me Rubinho(PT-BR: Hoo-Been-Yoo). I'm glad you're here! Feel free to reach out!
-<br>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensbbcarvalho/)](https://www.linkedin.com/in/rubensbbcarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-rubensborgesdev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubensborgesdev@gmail.com)](mailto:rubensborgesdev@gmail.com)
+
 
 <br />
 
